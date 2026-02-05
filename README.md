@@ -33,8 +33,8 @@ This is a Flutter e-commerce application built as part of a technical assignment
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/zeeshanhaider60/ecommerce-app.git
-   cd ecommerce-app
+   git clone https://github.com/zeeshanhaider60/ecommerce_app.git
+   cd ecommerce_app
    ```
 
 2. **Install dependencies:**
